@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amiiitabh/LeetPy/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amiiitabh/LeetPy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amiiitabh/LeetPy/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amiiitabh/LeetPy/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amiiitabh/LeetPy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amiiitabh/LeetPy/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
