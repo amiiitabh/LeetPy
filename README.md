@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amiiitabh/LeetPy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amiiitabh/LeetPy/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amiiitabh/LeetPy/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amiiitabh/LeetPy/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -33,9 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
