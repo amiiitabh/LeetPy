@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amiiitabh/LeetPy/tree/master/0001-two-sum) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
