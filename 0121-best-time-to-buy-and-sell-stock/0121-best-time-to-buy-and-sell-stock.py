@@ -7,4 +7,6 @@ class Solution:
                 pivot=i
             elif i-pivot>x:
                 x=i-pivot
+            else:
+                pass
         return x
