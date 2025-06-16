@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amiiitabh/LeetPy/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/amiiitabh/LeetPy/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amiiitabh/LeetPy/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
