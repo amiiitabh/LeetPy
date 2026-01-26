@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amiiitabh/LeetPy/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amiiitabh/LeetPy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/amiiitabh/LeetPy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amiiitabh/LeetPy/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/amiiitabh/LeetPy/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amiiitabh/LeetPy/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/amiiitabh/LeetPy/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
