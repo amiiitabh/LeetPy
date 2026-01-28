@@ -8,10 +8,8 @@ class Solution:
         b=a+1
         lst=[]
         for j in str(b):
-            lst.append(j)
-        nums1=[]
-        for i in lst:
-            nums1.append(int(i))
-        return nums1
+            lst.append(int(j))
+        return lst
+       
 
         
