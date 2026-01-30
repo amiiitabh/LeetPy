@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/amiiitabh/LeetPy/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amiiitabh/LeetPy/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/amiiitabh/LeetPy/tree/master/1929-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/amiiitabh/LeetPy/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amiiitabh/LeetPy/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amiiitabh/LeetPy/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amiiitabh/LeetPy/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/amiiitabh/LeetPy/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/amiiitabh/LeetPy/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amiiitabh/LeetPy/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amiiitabh/LeetPy/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amiiitabh/LeetPy/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amiiitabh/LeetPy/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,9 +87,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amiiitabh/LeetPy/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amiiitabh/LeetPy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amiiitabh/LeetPy/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
