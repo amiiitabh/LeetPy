@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amiiitabh/LeetPy/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/amiiitabh/LeetPy/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/amiiitabh/LeetPy/tree/master/0367-valid-perfect-square) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/amiiitabh/LeetPy/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amiiitabh/LeetPy/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amiiitabh/LeetPy/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/amiiitabh/LeetPy/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/amiiitabh/LeetPy/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/amiiitabh/LeetPy/tree/master/0367-valid-perfect-square) |
 ## Trie
 |  |
 | ------- |
